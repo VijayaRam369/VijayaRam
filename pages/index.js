@@ -4,7 +4,7 @@ import AboutSection from "@/src/components/AboutSection"
 import ServiceSection from "@/src/components/ServicesSection"
 import ResumeSection from "@/src/components/ResumeSection"
 import ContactSection from "@/src/components/ContactSection"
-import footer from "@/src/components/Footer"
+
 import Footer from "@/src/components/Footer"
 export default function Home() {
   return (
